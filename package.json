@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "0.0.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --code"
+  },
+  "author": "AntonThomzz",
+  "license": "MIT",
+  "description": "A WhatsApp bot reader using Baileys and various utilities",
+  "dependencies": {
+    "whatsapp-reader": "latest"
+  }
+}
